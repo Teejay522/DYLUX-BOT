@@ -2,15 +2,15 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
-global.nomorbot = '254736958034' //Nomor Bot
+global.nomorbot = '254115085211' //Nomor Bot
 global.owner = [
-  ['254736958034', '🐝KHALID-TECH🐝', true],
-  ['923470027813'], '🌿xIRATOS CONTRIBUTORx🌿', true],
-  ['254768667910', '🐝STARBOY DONATOR🐝', true],
+  ['254115085211', '🐝KHALID-TECH🐝', true],
+  ['254115085211'], '🌿xIRATOS CONTRIBUTORx🌿', true],
+  ['254115085211', '🐝STARBOY DONATOR🐝', true],
 ] //Numeros
 
-global.mods = ['254736958034'] 
-global.prems = ['254736958034', '254716216161', '923470027813']
+global.mods = ['254115085211'] 
+global.prems = ['254115085211', '254716216161', '923470027813']
 global.APIs = { // API Prefix
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
