@@ -2,8 +2,8 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
-global.nomorbot = '254736958034' //Nomor Bot
-global.owner = [
+global.nomorbot = '254115085211' //Nomor Bot
+global.owner = [254115085211] 
   ['254736958034', '🐝KHALID-TECH🐝', true],
   ['923470027813'], '🌿xIRATOS CONTRIBUTORx🌿', true],
   ['254768667910', '🐝STARBOY DONATOR🐝', true],
